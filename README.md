@@ -27,6 +27,3 @@ Flutter     21 mins             ██░░░░░░░░░░░░░░
 MySQL       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 <!--END_SECTION:waka-->
-
-
-⭐️ From [LikeRainDay](https://github.com/LikeRainDay)
