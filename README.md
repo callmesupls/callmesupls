@@ -15,8 +15,6 @@
 
 🚀Welcome to the rain planet🌎
 
-![houshuai github stats](https://source.unsplash.com/random/800x500)
-
 
 📊 **This week I spent my time on**
 
