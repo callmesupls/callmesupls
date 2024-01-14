@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="img/dark_mode.gif#gh-dark-mode-only">
-    <img src="img/light_mode.gif#gh-light-mode-only">
+    <img src="img/Su_dark.gif#gh-dark-mode-only">
+    <img src="img/Su_light.gif#gh-light-mode-only">
 </h1>
 
 
