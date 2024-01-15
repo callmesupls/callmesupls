@@ -18,7 +18,7 @@
 - Weibo: <a href="https://weibo.com/u/7368088521" target="_blank"><b> VNCallmeSupls</b></a> <br>
 - Wechat: <a href="https://u.wechat.com/kPDE3TQzagwWgjf0Is1q1bE" target="_blank"><b> VNCallmeSupls</b></a> <br>
 
-<h2>-------------------------------------------</h2>
+<h2>------------------------------</h2>
 
 <p><b>• Không có việc gì là không làm được, khó khăn nào cũng vượt qua!<br> Dù gian lao khổ hạnh cũng không sờn lòng, vào sống ra chết cũng không nản chí!</b></p>
 
