@@ -2,7 +2,7 @@
     <img src="img/Su_dark.gif#gh-dark-mode-only">
     <img src="img/Su_light.gif#gh-light-mode-only">
 </h1>
-<h2 align="center"><b>Sorry, am I Kohlrabi or Chayote?</b></h2>
+<!-- <h2 align="center"><b>Sorry, am I Kohlrabi or Chayote?</b></h2>
 <h3 align="center">💬If you have questions about my developer projects, you can message me directly:</h3>
 - Facebook: <a href="http://m.me/CallmeSu.pls" target="_blank"><b> Su</b></a> <br>
 - Facebook: <a href="http://m.me/CallmeSu.pls.VN" target="_blank"><b> Call me Su</b></a> <br>
@@ -22,4 +22,4 @@
 
 <p><b>• Không có việc gì là không làm được, khó khăn nào cũng vượt qua!<br> Dù gian lao khổ hạnh cũng không sờn lòng, vào sống ra chết cũng không nản chí!</b></p>
 
-<p><b>• Kỉ luật là sức mạnh của Quân đội !</b></p>
+<p><b>• Kỉ luật là sức mạnh của Quân đội !</b></p> -->
